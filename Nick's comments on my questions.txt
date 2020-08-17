@@ -1,0 +1,6 @@
+I meant the opposite of this: KCDE is a model where the 1-step ahead forecast relies heavily on recent data and 4-step ahead relies less heavily on recent data and more heavily on a weighted average.
+
+How good is the Kolmogorov-Smirnov test in comparison to other tests of similarities between models?  
+
+
+

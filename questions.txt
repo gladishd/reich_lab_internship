@@ -1,0 +1,5 @@
+In the section of the data:  cdc-flusight-ensemble-master -> model-forecasts -> real-time-component-models, what do the different data columns and type generally represent?  For example, are the models predicting the season onset week, the peak disease incidence for the whole season, and the peak week for the season?  And what constitutes the flu season?  
+
+What do the different bins represent?  
+
+You might have some problems importing the data; cloning the data in GitHub Desktop worked well for me.  
